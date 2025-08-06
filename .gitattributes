@@ -1,0 +1,2 @@
+Dados/BBB.data filter=lfs diff=lfs merge=lfs -text
+Dados/EP2.data filter=lfs diff=lfs merge=lfs -text
