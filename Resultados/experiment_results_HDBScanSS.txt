@@ -1,0 +1,95 @@
+Dataset: BBB.data
+  5% rotulado -> HDBScanSSC (transdução): 0.7169, SVM pós-HDBScanSSC: 0.7145, RF pós-HDBScanSSC: 0.7162
+  10% rotulado -> HDBScanSSC (transdução): 0.7557, SVM pós-HDBScanSSC: 0.7493, RF pós-HDBScanSSC: 0.7484
+  15% rotulado -> HDBScanSSC (transdução): 0.7800, SVM pós-HDBScanSSC: 0.7658, RF pós-HDBScanSSC: 0.7657
+
+Dataset: EP2.data
+  5% rotulado -> HDBScanSSC (transdução): 0.7767, SVM pós-HDBScanSSC: 0.7949, RF pós-HDBScanSSC: 0.7860
+  10% rotulado -> HDBScanSSC (transdução): 0.8039, SVM pós-HDBScanSSC: 0.8419, RF pós-HDBScanSSC: 0.8268
+  15% rotulado -> HDBScanSSC (transdução): 0.8180, SVM pós-HDBScanSSC: 0.8656, RF pós-HDBScanSSC: 0.8451
+
+Dataset: ACE.data
+  5% rotulado -> HDBScanSSC (transdução): 0.6354, SVM pós-HDBScanSSC: 0.6064, RF pós-HDBScanSSC: 0.6170
+  10% rotulado -> HDBScanSSC (transdução): 0.7193, SVM pós-HDBScanSSC: 0.7004, RF pós-HDBScanSSC: 0.7135
+  15% rotulado -> HDBScanSSC (transdução): 0.7607, SVM pós-HDBScanSSC: 0.7422, RF pós-HDBScanSSC: 0.7558
+
+Dataset: ACHE.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5404, SVM pós-HDBScanSSC: 0.5259, RF pós-HDBScanSSC: 0.5386
+  10% rotulado -> HDBScanSSC (transdução): 0.5809, SVM pós-HDBScanSSC: 0.5512, RF pós-HDBScanSSC: 0.5618
+  15% rotulado -> HDBScanSSC (transdução): 0.6194, SVM pós-HDBScanSSC: 0.5680, RF pós-HDBScanSSC: 0.5753
+
+Dataset: AT1.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5823, SVM pós-HDBScanSSC: 0.5338, RF pós-HDBScanSSC: 0.5488
+  10% rotulado -> HDBScanSSC (transdução): 0.6131, SVM pós-HDBScanSSC: 0.5495, RF pós-HDBScanSSC: 0.5590
+  15% rotulado -> HDBScanSSC (transdução): 0.6365, SVM pós-HDBScanSSC: 0.5928, RF pós-HDBScanSSC: 0.6020
+
+Dataset: BZR.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5691, SVM pós-HDBScanSSC: 0.5385, RF pós-HDBScanSSC: 0.5557
+  10% rotulado -> HDBScanSSC (transdução): 0.6170, SVM pós-HDBScanSSC: 0.5843, RF pós-HDBScanSSC: 0.5974
+  15% rotulado -> HDBScanSSC (transdução): 0.6438, SVM pós-HDBScanSSC: 0.5766, RF pós-HDBScanSSC: 0.5947
+
+Dataset: COX2.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5905, SVM pós-HDBScanSSC: 0.5743, RF pós-HDBScanSSC: 0.5783
+  10% rotulado -> HDBScanSSC (transdução): 0.6421, SVM pós-HDBScanSSC: 0.6108, RF pós-HDBScanSSC: 0.6246
+  15% rotulado -> HDBScanSSC (transdução): 0.6794, SVM pós-HDBScanSSC: 0.6381, RF pós-HDBScanSSC: 0.6457
+
+Dataset: DHFR.data
+  5% rotulado -> HDBScanSSC (transdução): 0.6135, SVM pós-HDBScanSSC: 0.5813, RF pós-HDBScanSSC: 0.5909
+  10% rotulado -> HDBScanSSC (transdução): 0.6705, SVM pós-HDBScanSSC: 0.6240, RF pós-HDBScanSSC: 0.6366
+  15% rotulado -> HDBScanSSC (transdução): 0.7085, SVM pós-HDBScanSSC: 0.6663, RF pós-HDBScanSSC: 0.6749
+
+Dataset: errba.data
+  5% rotulado -> HDBScanSSC (transdução): 0.6282, SVM pós-HDBScanSSC: 0.6132, RF pós-HDBScanSSC: 0.6186
+  10% rotulado -> HDBScanSSC (transdução): 0.6827, SVM pós-HDBScanSSC: 0.6651, RF pós-HDBScanSSC: 0.6698
+  15% rotulado -> HDBScanSSC (transdução): 0.7149, SVM pós-HDBScanSSC: 0.6963, RF pós-HDBScanSSC: 0.7040
+
+Dataset: FONTAINE.data
+  5% rotulado -> HDBScanSSC (transdução): 0.7588, SVM pós-HDBScanSSC: 0.7503, RF pós-HDBScanSSC: 0.7549
+  10% rotulado -> HDBScanSSC (transdução): 0.8530, SVM pós-HDBScanSSC: 0.8435, RF pós-HDBScanSSC: 0.8481
+  15% rotulado -> HDBScanSSC (transdução): 0.8781, SVM pós-HDBScanSSC: 0.8660, RF pós-HDBScanSSC: 0.8672
+
+Dataset: GPB.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5759, SVM pós-HDBScanSSC: 0.5293, RF pós-HDBScanSSC: 0.5195
+  10% rotulado -> HDBScanSSC (transdução): 0.5976, SVM pós-HDBScanSSC: 0.5593, RF pós-HDBScanSSC: 0.5786
+  15% rotulado -> HDBScanSSC (transdução): 0.6200, SVM pós-HDBScanSSC: 0.5630, RF pós-HDBScanSSC: 0.5856
+
+Dataset: GTPase.data
+  5% rotulado -> HDBScanSSC (transdução): 0.8478, SVM pós-HDBScanSSC: 0.8684, RF pós-HDBScanSSC: 0.8640
+  10% rotulado -> HDBScanSSC (transdução): 0.8954, SVM pós-HDBScanSSC: 0.9262, RF pós-HDBScanSSC: 0.9195
+  15% rotulado -> HDBScanSSC (transdução): 0.9134, SVM pós-HDBScanSSC: 0.9412, RF pós-HDBScanSSC: 0.9328
+
+Dataset: M1.data
+  5% rotulado -> HDBScanSSC (transdução): 0.7861, SVM pós-HDBScanSSC: 0.7857, RF pós-HDBScanSSC: 0.7865
+  10% rotulado -> HDBScanSSC (transdução): 0.7963, SVM pós-HDBScanSSC: 0.7906, RF pós-HDBScanSSC: 0.7932
+  15% rotulado -> HDBScanSSC (transdução): 0.8131, SVM pós-HDBScanSSC: 0.8038, RF pós-HDBScanSSC: 0.8150
+
+Dataset: MIC.data
+  5% rotulado -> HDBScanSSC (transdução): 0.7080, SVM pós-HDBScanSSC: 0.6893, RF pós-HDBScanSSC: 0.6866
+  10% rotulado -> HDBScanSSC (transdução): 0.7699, SVM pós-HDBScanSSC: 0.7458, RF pós-HDBScanSSC: 0.7445
+  15% rotulado -> HDBScanSSC (transdução): 0.8057, SVM pós-HDBScanSSC: 0.7765, RF pós-HDBScanSSC: 0.7724
+
+Dataset: PPARD121.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5955, SVM pós-HDBScanSSC: 0.5837, RF pós-HDBScanSSC: 0.5847
+  10% rotulado -> HDBScanSSC (transdução): 0.6582, SVM pós-HDBScanSSC: 0.6331, RF pós-HDBScanSSC: 0.6380
+  15% rotulado -> HDBScanSSC (transdução): 0.6826, SVM pós-HDBScanSSC: 0.6551, RF pós-HDBScanSSC: 0.6496
+
+Dataset: TGFB.data
+  5% rotulado -> HDBScanSSC (transdução): 0.6190, SVM pós-HDBScanSSC: 0.5903, RF pós-HDBScanSSC: 0.5923
+  10% rotulado -> HDBScanSSC (transdução): 0.6194, SVM pós-HDBScanSSC: 0.5712, RF pós-HDBScanSSC: 0.5865
+  15% rotulado -> HDBScanSSC (transdução): 0.6609, SVM pós-HDBScanSSC: 0.6217, RF pós-HDBScanSSC: 0.6270
+
+Dataset: THERM.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5662, SVM pós-HDBScanSSC: 0.5388, RF pós-HDBScanSSC: 0.5450
+  10% rotulado -> HDBScanSSC (transdução): 0.5822, SVM pós-HDBScanSSC: 0.5346, RF pós-HDBScanSSC: 0.5483
+  15% rotulado -> HDBScanSSC (transdução): 0.6249, SVM pós-HDBScanSSC: 0.5772, RF pós-HDBScanSSC: 0.5784
+
+Dataset: THR.data
+  5% rotulado -> HDBScanSSC (transdução): 0.5284, SVM pós-HDBScanSSC: 0.5035, RF pós-HDBScanSSC: 0.4997
+  10% rotulado -> HDBScanSSC (transdução): 0.5578, SVM pós-HDBScanSSC: 0.5059, RF pós-HDBScanSSC: 0.5161
+  15% rotulado -> HDBScanSSC (transdução): 0.5802, SVM pós-HDBScanSSC: 0.5288, RF pós-HDBScanSSC: 0.5321
+
+Dataset: ttr.data
+  5% rotulado -> HDBScanSSC (transdução): 0.6181, SVM pós-HDBScanSSC: 0.6008, RF pós-HDBScanSSC: 0.6090
+  10% rotulado -> HDBScanSSC (transdução): 0.7041, SVM pós-HDBScanSSC: 0.6687, RF pós-HDBScanSSC: 0.6807
+  15% rotulado -> HDBScanSSC (transdução): 0.7483, SVM pós-HDBScanSSC: 0.7209, RF pós-HDBScanSSC: 0.7284
+

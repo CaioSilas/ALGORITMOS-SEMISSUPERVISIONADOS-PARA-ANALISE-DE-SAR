@@ -1,0 +1,8 @@
+pprintpp
+numpy
+pandas
+scikit-learn
+matplotlib
+scipy
+hdbscan
+seaborn
