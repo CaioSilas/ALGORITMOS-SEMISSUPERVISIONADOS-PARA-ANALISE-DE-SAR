@@ -29,7 +29,7 @@ else:
     print(f"Caminho '{module_path1}' já está no sys.path.")
 
 from super_heap import SuperHeap, NodeObject
-from ss_hdbscan import HDBScanSSC
+from HDBScanSSC.ss_hdbscan import HDBScanSSC
 
 warnings.filterwarnings('ignore', category=FutureWarning)
 
